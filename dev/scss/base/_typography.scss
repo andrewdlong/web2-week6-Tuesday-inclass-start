@@ -2,7 +2,7 @@
     Typography
 ============= */
 body{
-
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1,h2,h3,h4,h5{
@@ -13,4 +13,8 @@ h1,h2,h3,h4,h5{
 p{
     padding: 0;
     margin: 0;
+}
+
+#nav-container {
+    font-family: 'Roboto Slab', serif;
 }
